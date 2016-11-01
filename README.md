@@ -1,5 +1,9 @@
 # MerryBackup
 
+ver.1101:
+
+failed to modify the jump bug
+
 ver.1031:
 
 added handle_events() in background class
