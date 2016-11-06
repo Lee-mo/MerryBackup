@@ -4,7 +4,7 @@ ver.1106:
 
 modified jump
 
-still have a bug int jump
+still have a bug in jump
 
 ver.1101:
 
