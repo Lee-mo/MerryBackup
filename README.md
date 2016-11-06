@@ -1,5 +1,11 @@
 # MerryBackup
 
+ver.1106:
+
+modified jump
+
+still have a bug int jump
+
 ver.1101:
 
 failed to modify the jump bug
