@@ -1,5 +1,11 @@
 # MerryBackup
 
+ver.1109:
+
+added dog's hp
+
+still have a bug in jump
+
 ver.1107:
 
 modified jump
