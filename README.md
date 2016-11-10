@@ -1,5 +1,11 @@
 # MerryBackup
 
+ver.1110:
+
+added stage text  
+
+still have a bug in jump
+
 ver.1109:
 
 added dog's hp
