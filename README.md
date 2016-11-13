@@ -1,5 +1,11 @@
 # MerryBackup
 
+ver.1113:
+
+separated objects.
+
+still have a bug in jump.
+
 ver.1110:
 
 added stage text  
