@@ -1,5 +1,13 @@
 # MerryBackup
 
+ver.1115:
+
+added ChickenLeg class.
+
+added Collision Check.
+
+added dog's hp image.
+
 ver.1113:
 
 separated objects.
