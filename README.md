@@ -1,5 +1,13 @@
 # MerryBackup
 
+ver.1116:
+
+modified dog's handle_events().
+
+modified dog's bounding box.
+
+still have a bug in jump.
+
 ver.1115:
 
 added ChickenLeg class.
@@ -7,6 +15,8 @@ added ChickenLeg class.
 added Collision Check.
 
 added dog's hp image.
+
+still have a bug in jump.
 
 ver.1113:
 
