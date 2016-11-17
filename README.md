@@ -1,5 +1,13 @@
 # MerryBackup
 
+ver.1117:
+
+modified dog's jump.
+
+still have a bug in jump. (int background class)
+
+added game_over_state.
+
 ver.1116:
 
 modified dog's handle_events().
