@@ -1,5 +1,11 @@
 # MerryBackup
 
+ver.1118:
+
+modified game_over_state.
+
+needs correction in word.
+
 ver.1117:
 
 modified dog's jump.
