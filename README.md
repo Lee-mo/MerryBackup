@@ -1,5 +1,9 @@
 # MerryBackup
 
+ver.1119:
+
+corrected key message.
+
 ver.1118:
 
 modified game_over_state.
