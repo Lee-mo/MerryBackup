@@ -1,5 +1,13 @@
 # MerryBackup
 
+ver.1122:
+
+fixed jump bug.
+
+modified redHorn class.
+
+fixed background bug.
+
 ver.1121:
 
 added dog's step sound and stage1 bgm.
