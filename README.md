@@ -1,5 +1,9 @@
 # MerryBackup
 
+ver.1123:
+
+dog class refactoring.
+
 ver.1122:
 
 fixed jump bug.
