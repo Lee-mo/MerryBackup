@@ -1,5 +1,9 @@
 # MerryBackup
 
+ver.1125:
+
+monster class refactoring.
+
 ver.1124:
 
 dog class refactoring.
